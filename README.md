@@ -24,6 +24,7 @@ A collection of certifications and achievements that highlight my learning journ
 | Data Science with Python Certificate | Cisco | Course/Internship | Jun, 2026 |
 | Data Science Essentials with Python (Cisco Verified Badge) | Cisco | Course/Internship | Jun, 2026 |
 | Operations Industrial Enginneer Certificate  | Siemens | Course/Internship | Jun, 2026 |
+| ISRO BAH Certificate  | ISRO | Hackathon | Jun, 2026 |
 
 ---
 
